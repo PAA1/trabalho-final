@@ -11,8 +11,8 @@
 
 | Campo | Valor |
 |---|---|
-| **Nome completo** | `<seu nome aqui>` |
-| **Cartão UFRGS** | `<000000000>` |
+| **Nome completo** | `<Lucas Furstenau Fuchs>` |
+| **Cartão UFRGS** | `<609690>` |
 | **Turma** | Turma B |
 
 ---
