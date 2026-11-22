@@ -26,7 +26,7 @@
 
 ### Tempo
 
-O(V + E) por se tratar de uma construção de grafo e verificação de bipartição
+> O(V + E) por se tratar de uma construção de grafo e verificação de bipartição
 
 
 ### Espaço
