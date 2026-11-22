@@ -57,7 +57,7 @@ Este repositório é um **portfólio de exercícios** resolvidos ao longo do sem
 
 | # | ID | Problema | Dificuldade | Tópico | Status |
 |---|---|---|---|---|---|
-| 1 | — | — | — | — | ⬜ |
+| 1 | 1979 | Salas Separadas | Média | Bipartição | ✅ |
 | 2 | — | — | — | — | ⬜ |
 | 3 | — | — | — | — | ⬜ |
 
