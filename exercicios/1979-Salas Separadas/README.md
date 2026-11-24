@@ -1,6 +1,6 @@
-# Problema Exemplo: Nome do Problema
+# 1979 - Salas Separadas
 
-**Problema:** [Nome do Problema](link_para_o_problema)  
+**Problema:** [Salas Separadas](https://judge.beecrowd.com/pt/problems/view/1979)  
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### Tempo
 
-O(V + E) por se tratar de uma construção de grafo e verificação de bipartição
+> O(V + E) por se tratar de uma construção de grafo e verificação de bipartição
 
 
 ### Espaço
