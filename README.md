@@ -59,7 +59,7 @@ Este repositório é um **portfólio de exercícios** resolvidos ao longo do sem
 |---|---|---|---|---|---|
 | 1 | 1979 | Salas Separadas | Média | Bipartição | ✅ |
 | 2 | 1766 | O Elfo Negro | Fácil | Ordenação | ✅ |
-| 3 | — | — | — | — | ⬜ |
+| 3 | 1152 | Estradas Escuras | Média | MST | ✅ |
 
 > **Legenda:** ✅ Concluído · 🔄 Em andamento · ⬜ Não iniciado
 
